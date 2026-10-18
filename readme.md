@@ -29,7 +29,7 @@ LEAN is an event-driven, professional-caliber algorithmic trading  platform buil
   <img alt="feature-list" width="100%">
 </picture>
 
-<br/>
+<br/> 
 <br/>
 
 #
@@ -39,7 +39,7 @@ LEAN is an event-driven, professional-caliber algorithmic trading  platform buil
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/d28fd3d4-dad8-4828-94a9-676ddb360bdd">
   <img alt="modular-header" width="100%">
 </picture>
-LEAN is modular in design, with each component pluggable and customizable. It ships with models for all major plug-in points.
+LEAN is modular in design, with each component  pluggable and customizable. It ships with models for all major plug-in points.
 <br/>
 <br/>
 
@@ -59,7 +59,7 @@ LEAN is modular in design, with each component pluggable and customizable. It sh
 
 <img width="100%" alt="lean-animation" src="https://github.com/user-attachments/assets/09a32ba9-99ee-4fa9-9b33-d98dbf5d291f">
 
-QuantConnect Lean CLI is a command-line interface tool for interacting with the Lean algorithmic trading engine, which is an open-source platform for backtesting and live trading algorithms in multiple financial markets. It allows developers to manage projects, run backtests, deploy live algorithms, and perform various other tasks related to algorithmic trading directly from the terminal. The CLI simplifies the workflow by automating tasks, enabling seamless integration with cloud services, and facilitating collaboration with the QuantConnect community. It's designed for quant developers who need a powerful and flexible tool to streamline their trading strategies. Please watch the [instructions videos](https://www.youtube.com/watch?v=QJibe1XpP-U&list=PLD7-B3LE6mz61Hojce6gKshv5-7Qo4y0r) to learn more.
+QuantConnect Lean CLI is a command-line interface tool for interacting with the Lean algorithmic trading engine, which is an open-source platform for backtesting and live trading algorithms in multiple financial markets. It allows developers  to manage projects, run backtests, deploy live algorithms, and perform various other tasks related to algorithmic trading directly from the terminal. The CLI simplifies the workflow by automating tasks, enabling seamless integration with cloud services, and facilitating collaboration with the QuantConnect community. It is designed for quant developers who need a powerful and flexible tool to streamline their trading strategies. Please watch the [instructions videos](https://www.youtube.com/watch?v=QJibe1XpP-U&list=PLD7-B3LE6mz61Hojce6gKshv5-7Qo4y0r) to learn more.
 
 ### Installation
 
